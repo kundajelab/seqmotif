@@ -1,4 +1,4 @@
 # seqmotif
-Sequence motif visualization
+Sequence motif visualization as implemented in the deeplift package.
 
-See examples for ipython notebook demonstrating use
+See examples/ folder for ipython notebook demonstrating use
